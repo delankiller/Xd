@@ -1,12 +1,4 @@
 {
-   "name":"Rozsa",
-   "description":"Someone dimmed the lights.",
-   "authors":[
-      {
-         "name":"mortyick",
-         "id":"705853948052897813"
-      }
-   ],
    "semanticColors":{
       "HEADER_PRIMARY":[
          "#f3bae5"
